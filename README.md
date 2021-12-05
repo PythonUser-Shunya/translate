@@ -1,2 +1,2 @@
 # translate
-翻訳webアプリ（）
+翻訳webアプリ。まだ途中
